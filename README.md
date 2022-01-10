@@ -1,2 +1,2 @@
-# micasense
-Code to convert raw multispectral images to remote sensing reflectance 
+# UAS multispectral remote sensing
+Scripts to analyze multispectral images taken from MicaSense RedEdge multispectral camera onboard a drone 
